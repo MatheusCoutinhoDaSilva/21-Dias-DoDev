@@ -1,0 +1,1 @@
+console.log("Estou no meu dia 02, aprendendo programação com o devgio, aprendi sobre git")
